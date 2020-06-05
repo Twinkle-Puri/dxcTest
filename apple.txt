@@ -1,1 +1,2 @@
-this is a tseting text
+this is a text file
+ add something to check status 
